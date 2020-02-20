@@ -1,7 +1,10 @@
 # Survival of the Fittest
 
 ### Introduction
-Survival of the Fittest is a game. Play it.
+Survival of the Fittest is an AI simulation built in python.
+
+The original repo can be found at this link (unless the author has taken it down)
+https://github.com/tcniedfeldt/SurvivalOfTheFittest
 
 ### Authors
 - Ryan Brown
